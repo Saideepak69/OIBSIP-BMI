@@ -8,7 +8,3 @@ We at oasis infobyte believe in making our youth especially the students self-aw
 
 ## Project-1
 BMI Calculator
-## Project-2
-Simple Password Generator
-## Project-3
-Browser-Based Chat Application 
